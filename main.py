@@ -6,6 +6,7 @@ def sample(a):
 
 if __name__ == "__main__":
     b = "Hello world!"
+    a = 1 + 2
     print(helper.helper("HELP!"))
     print("Hello!")
     print(sample(2))
